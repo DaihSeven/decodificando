@@ -46,7 +46,7 @@ body .sucesso::before {
   background: #F3F5FC;
 }
 ::-webkit-scrollbar-track {
-  background: #868E96;
+  background: #FFFFF0;
   border-radius: 100px;
   margin: 2px 0;
 }
@@ -136,7 +136,7 @@ body .sucesso::before {
 .main__entrada__texto {
   width: 90%;
   height: 90%;
-  border: none;
+  border:none;
   font-size: 2rem;
   background-color: #F3F5FC;
   resize: none;
@@ -232,7 +232,7 @@ body .sucesso::before {
   padding: 20px;
   height: 100%;
   background-color: #FFFFF0;
-  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+  box-shadow: #FFFFF0;
   border-radius: 32px;
   margin: 0 auto;
   transform: translateY(-30px);
@@ -297,12 +297,13 @@ body .sucesso::before {
   max-width: 1170px;
   padding: 1.5rem 0;
   margin: 0 auto;
-  margin-top: 2vh;
+  position:static;
+  margin-top: 0;
   padding: 5px 0;
   text-align: center;
-  border-top: 1px solid #114375;
-  box-shadow: 0 -2px 5px #114375;
-  background-color: #FFFFF0;
+  border-top: 1px solid #343A40;
+  box-shadow: 0 -2px 5px #495057;
+  background-color: white;
   border-radius: 20px 20px 0 0;
   font-size: 1.5rem;
 }
@@ -324,7 +325,7 @@ body .sucesso::before {
 }
 .footer a {
   text-decoration: none;
-  color: #194d8d;
+  color: #0A3871;
 }
 .footer__contatos li {
   display: inline;
@@ -336,5 +337,6 @@ body .sucesso::before {
 .footer .fa-linkedin {
   color: #0A66C2;
 }
+
 
 /*# sourceMappingURL=styles.css.map */
