@@ -29,23 +29,30 @@ Dessa forma a palavra "gato" se torna "gcuttpema" quando criptografada.
 ```bash
 https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---Lógica
 ```
+### SASS - Compilador CSS 
+```bash
+https://sass-lang.com/
+```
 ### TRELLO - Decodificador de Texto - Alura
 ```bash
 https://trello.com/b/0PDKeemv/challenges-tgf-one
 ```
-### SASS - Compilador CSS 
-```bash
-https://sass-lang.com/
+
 
 
 ## Versão proposta pela ALURA
 <h3 align="center">
-    <img src="./img/readme/Desktop.jpg" alt="Badge Exclusiva do Desafio" width="450" height="250" style="vertical-align: top;">
+    <img src="./img/readme/Desktop.jpg" alt="Badge Exclusiva do Desafio" width="450" height="250" style="vertical-align: top;"> <br>
     <img src="./img/readme/Mobile.jpg" alt="Badge Exclusiva do Desafio" width="250" height="450">
 </h3>
 ## Minha versão
-![Captura de Tela (567)](https://github.com/DaihSeven/decodificando/assets/128611552/1a96d180-6632-4768-bcb1-b32b51992f69)
-![Captura de Tela (566)](https://github.com/DaihSeven/decodificando/assets/128611552/889771ad-8454-4e12-abfa-8b7d684ddfaa)
+<h3 align="center">
+    <img src="./img/readme/desktop2.png" alt="imagem da página" width="450" height="250" style="vertical-align: top;"> <br>  <br>
+    <img src="./img/readme/desktop1.png" alt="imagem da página" width="450" height="250" style="vertical-align: top;"> <br>
+    <img src="./img/readme/mobile1.jpeg" alt="página mobile" width="250" height="450"> <br>
+    <img src="./img/readme/mobile2.jpeg" alt="página mobile" width="250" height="450"> <br>
+    <img src="./img/readme/mobile3.jpeg" alt="página mobile" width="250" height="450">
+</h3>
 
 
 #  🔗 Challenge ONE Sprint 01:
