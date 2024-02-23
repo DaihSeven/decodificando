@@ -44,6 +44,8 @@ https://sass-lang.com/
     <img src="./img/readme/Mobile.jpg" alt="Badge Exclusiva do Desafio" width="250" height="450">
 </h3>
 ## Minha versão
+![Captura de Tela (567)](https://github.com/DaihSeven/decodificando/assets/128611552/1a96d180-6632-4768-bcb1-b32b51992f69)
+![Captura de Tela (566)](https://github.com/DaihSeven/decodificando/assets/128611552/889771ad-8454-4e12-abfa-8b7d684ddfaa)
 
 
 #  🔗 Challenge ONE Sprint 01:
